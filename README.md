@@ -1,0 +1,2 @@
+# SSConfig
+Shadowsocks client configuration
